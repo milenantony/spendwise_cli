@@ -140,10 +140,6 @@ The application converts Expense objects into dictionaries before saving and rec
 - Add automated unit tests.
 - Introduce a graphical interface or web application.
 
-## Author
 
-**Milen Antony**
 
-## License
 
-This project is intended for learning and educational purposes. Add a license file if you plan to distribute the project under a specific open-source license.
